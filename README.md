@@ -33,15 +33,3 @@ This repository is a comprehensive guide for learning Python programming from be
 
 ## Contributing
 Contributions are welcome! Please submit a pull request or raise an issue to suggest improvements.
-
-## License
-This project is licensed under the MIT License. See `LICENSE.md` for details.
-
----
-
-### To Make Changes in the `README.md`:
-1. Edit directly in your code editor or GitHub online editor.
-2. Update sections such as **Features**, **Installation**, or **Usage** based on what you want to add/remove.
-3. Format it in Markdown to maintain the structure and ensure readability.
-
-If you’d like, share specific details on the changes you're looking to make, and I can help craft them! 😊
